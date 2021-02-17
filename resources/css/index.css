@@ -1,0 +1,34 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1{
+    color: rgba(242, 250, 136, 0.993);
+    font-size: 100px;
+    text-align: center;
+
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: black;
+}
+
+.Brushes {
+    background-color: springgreen;
+}
+
+.Frames {
+    background-color: rgb(245, 82, 150);
+}
+
+.Paint {
+    background-color: rgb(26, 229, 243);
+}
+
+strong {
+    color: blue;
+}
